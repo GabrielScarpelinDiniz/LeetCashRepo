@@ -1,0 +1,1 @@
+Primeiramente pensei usar a estrutura de Switch Case, da qual gastaria menos tempo pra digitar e é mais simples de escrever. Mas assim que submeti, o leetcode, não tinha a versão atualizada do python
