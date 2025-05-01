@@ -1,4 +1,5 @@
-## Hoje eu dormi mais que o normal, então tô relaxado e com preguiça
+# Hoje eu dormi mais que o normal, então tô relaxado e com preguiça
+## Desafio dia 03/200
 
 Eu tava procurando algum exercício no leetcode de algo que eu já tinha estudado, e me deparo com um só de escrever o binary search e pensei "Por que não?". Então só pra brincar, decidi fazer até mesmo pra lembrar como faz, se não ia ficar enferrujado.
 

@@ -1,4 +1,6 @@
-## Tem um pessoal aí que acha que só porque começa com uns desafios diferentes, acha que é superior, vai entender KKKKKKKK
+# Tem um pessoal aí que acha que só porque começa com uns desafios diferentes, acha que é superior, vai entender KKKKKKKK
+
+## Desafio dia 01/200
 
 Clássico Two Sum pra começar de uma forma clean e tradicional, podia ter feito com uma complexidade menor? Claro, mas porque não começar devagar e simples? (Não se preocupem, se estão incomodados, já já faço de novo)
 

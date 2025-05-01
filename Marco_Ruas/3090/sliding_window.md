@@ -1,5 +1,7 @@
 # Levou minha tarde toda!
 
+## Desafio dia 04/200
+
 Diferente do pessoal de CC, eu tenho que estudar estrutura e algoritmos por conta próprio, é como se eu tivesse atirando no escuro, então se você chegasse e batesse o olho nesse exercício e falasse "Ah é só usar sliding window", eu lhe dou os meus sinceros parabéns, porque não foi o meu caso!
 
 Depois de um tempo que aprendi que quando tem problemas envolvendo substrings, na maioria das vezes se resolve com o sliding window, e esse foi o caso.
