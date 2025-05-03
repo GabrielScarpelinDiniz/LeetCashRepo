@@ -89,7 +89,7 @@ class Solution(object):
 # print("Lista 2:")
 # l2.print_lista()
 
-# # Somando
+
 # resultado = somar_listas_reversas(l1, l2)
 
 # print("Resultado da soma:")
