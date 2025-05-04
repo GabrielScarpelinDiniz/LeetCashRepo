@@ -9,5 +9,3 @@ Para uma lista com $n$ inteiros, tem-se:
 - **Time complexity**: $O(n)$ 
 - **Space complexity**: $O(1)$, ($\Theta(2)$)
 
-## Obs:
-O jeito mais apropriado seria com divisões inteiras por $10$ e por $10^(n - i)$, mas fiquei com preguiça de ajeitar isso porque queria ir para o churrasco.
