@@ -27,3 +27,5 @@ To com pressa hoje, vou ser breve.
 Exercício de Array. 
 
 If e elses - verificio se é o primeiro ou ultimo, se for verificacao especial. Se nao, olho o anterior e o sucessor, se todos esses forem 0 - vlau no do meio. No final eu subtraio do n, se for 0 ou menos que 0, eu retorno true, se nao retorno false.
+
+E mais uma vez o fodao molestou a concorrencia.
