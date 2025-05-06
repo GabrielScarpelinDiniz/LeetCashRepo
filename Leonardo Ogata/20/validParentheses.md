@@ -1,6 +1,6 @@
-# Palindrome Number
+# Valid Parentheses
 
-&nbsp;&nbsp;&nbsp;&nbsp; O objetivo do problema validParentheses é determinar se os paranteses, chaves e colchetes de fecham corretamente .
+&nbsp;&nbsp;&nbsp;&nbsp; O objetivo do problema Valid Parentheses é determinar se os paranteses, chaves e colchetes de fecham corretamente .
 
 &nbsp;&nbsp;&nbsp;&nbsp; Para isso desenvolvi o primeiramente o seguinte código: 
 

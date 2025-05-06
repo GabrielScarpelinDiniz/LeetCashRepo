@@ -1,4 +1,4 @@
-# Palindrome Number
+# Longest Common Prefix
 
 &nbsp;&nbsp;&nbsp;&nbsp; O objetivo do problema Longest Common Prefix é identificar o maior prefixo entre as palavras inseridas.
 

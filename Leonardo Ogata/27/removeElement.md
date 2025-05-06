@@ -1,4 +1,4 @@
-# Palindrome Number
+# Remove Element
 
 &nbsp;&nbsp;&nbsp;&nbsp; O objetivo do problema Remove Element é remover os número escolhidos de um array ordenado. 
 

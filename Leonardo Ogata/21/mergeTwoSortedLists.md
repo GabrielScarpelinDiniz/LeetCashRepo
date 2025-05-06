@@ -1,4 +1,4 @@
-# Palindrome Number
+# Merge Two Sorted Lists
 
 &nbsp;&nbsp;&nbsp;&nbsp; O objetivo do problema Merge Two Sorted Lists é mergear duas linked lists de forma que mantenha a linked list final em ordem crescente
 

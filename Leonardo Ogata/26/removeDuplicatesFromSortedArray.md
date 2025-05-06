@@ -1,4 +1,4 @@
-# Palindrome Number
+# emove Duplicates from Sorted Array
 
 &nbsp;&nbsp;&nbsp;&nbsp; O objetivo do problema Remove Duplicates from Sorted Array é remover os número duplicados de um array ordenado 
 
