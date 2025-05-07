@@ -14,6 +14,8 @@ def remove(nums):
         nums[i] = numero
         total+=1
         i+=1
+    
+    del nums[total:-1]
     return total
 
 print(remove(nums))
