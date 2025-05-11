@@ -8,7 +8,7 @@ var twoSum = function(nums, target) {
         for(let j = i + 1; j < nums.length; j++){
             let sum = nums[i] + nums[j]
             if(sum == target){
-                return arra y = [i, j]
+                return array = [i, j]
             }
         }
     }
