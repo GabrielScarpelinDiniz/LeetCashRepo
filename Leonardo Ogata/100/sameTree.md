@@ -45,7 +45,7 @@ def preOrder(node, arr):
 - Espaço: O uso de espaço adicional é O(${n}$), onde n é o tamanho das árvores.
 
 <div style="display: flex; align-items: center; justify-content: center;">
-    <img src="leoogata9.jpg" alt="leoogata" style="width: 300px; height: auto; margin-right: 20px;">
+    <img src="leoogata20.jpg" alt="leoogata" style="width: 300px; height: auto; margin-right: 20px;">
     <div>
         <p>Meu nome é Leonardo Ogata e essa foi minha master class, muito obrigado a todos, vejo vocês amanhã!</p>
     </div>
