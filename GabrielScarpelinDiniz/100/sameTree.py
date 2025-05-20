@@ -4,11 +4,6 @@ class TreeNode(object):
         self.left = left
         self.right = right
 
-def dfs(p, q):
-
-
-
-
 class Solution(object):
     def isSameTree(self, p, q):
         """
