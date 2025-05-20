@@ -1,4 +1,4 @@
-## Exercício: 412. Fizz Buzz
+## Exercício: 104. Maximum Depth of Binary Tree
 **Objetivo**: Dada a raiz de uma árvore binária, determine sua altura máxima (maior quantidade de nodes entre a raiz e uma folha);
 
 ## Descrição geral da estratégia
