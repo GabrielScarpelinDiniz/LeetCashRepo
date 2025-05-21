@@ -32,3 +32,10 @@ class Solution:
 
 
 [Odeio pimenta](https://leetcode.com/problems/type-of-triangle/submissions/1638848928)
+
+
+# Desafio 1/100
+
+Agora também vou postar um pouco sobre academia, projetinho que tô fazendo com o Yanomã
+## Dia de peito
+![alt text](../academia/acad1.jpeg)
