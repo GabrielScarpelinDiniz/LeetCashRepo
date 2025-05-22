@@ -28,3 +28,10 @@ var scoreOfString = function(s) {
 
 
 [Remada](https://leetcode.com/problems/score-of-a-string/submissions/1640821389)
+
+
+# Desafio 2/100 - De academia
+
+Yanomã já ficou mais largo hoje
+## Dia de costa
+![alt text](acad2.jpeg)
