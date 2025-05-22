@@ -13,7 +13,7 @@ def maxDepth(self, root):
         # Cria pilha contendo nó e profundidade
         stack = [[root, 1]]
         # resultado da profundidade
-        res = 0
+        result = 0
 
         # Itera enquanto a pilha não estiver vazia
         while stack:
@@ -29,7 +29,7 @@ def maxDepth(self, root):
                 stack.append([node.right, depth + 1])
 
         # Retorna profundidade final
-        return res
+        return result
 ```
 
 ## Complexidade
