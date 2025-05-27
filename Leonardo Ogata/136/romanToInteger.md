@@ -1,4 +1,4 @@
-# Palindrome Number
+# Roman To Integer
 
 &nbsp;&nbsp;&nbsp;&nbsp; O objetivo do problema Roman to Integer é converter o valor de algarismos romanos para número inteiros.
 
