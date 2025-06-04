@@ -4,31 +4,39 @@
 #         self.val = val
 #         self.next = next
 class Solution(object):
-    def reverseList(self, head):
+    def removeElements(self, head, val):
         """
         :type head: Optional[ListNode]
+        :type val: int
         :rtype: Optional[ListNode]
         """
-
-        if not head:
-            return head
-
-        arrVal = []
         current = head
 
+        arr = []
+                
         while current:
-            arrVal.append(current.val)
+            arr.append(current.val)
             current = current.next
         
-        arrVal.reverse()
-
+        for i in range(len(arr) -1, -1, -1):
+            if arr[i] == val:
+                arr.pop(i)
+        
         arrNodes = []
 
-        for x in range(len(arrVal)):
-            arrNodes.append(ListNode(arrVal[x]))
-        
+        for x in range(len(arr)):
+            arrNodes.append(ListNode(arr[x]))
+
         for i in range(len(arrNodes) - 1):
             arrNodes[i].next = arrNodes[i + 1]
         
-        return arrNodes[0] 
-    
+        return arrNodes[0] if arrNodes else None
+
+
+        
+
+
+            
+            
+            
+        
