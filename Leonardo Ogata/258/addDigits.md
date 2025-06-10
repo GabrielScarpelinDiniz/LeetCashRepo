@@ -1,4 +1,4 @@
-# addDigits
+# Add Digits
 
 &nbsp;&nbsp;&nbsp;&nbsp; O objetivo do problema addDigits é somar os digitos de um número até que o número possua apenas um caractere. Sim eu sei que parece muito fácil e na verdade é mesmo, porém eu tive que passar uma meia hora pesquisando pra descobrir como faz isso com a complexidade O(1)
 

@@ -1,6 +1,6 @@
-# Contains Duplicate II
+# Summary Ranges
 
-&nbsp;&nbsp;&nbsp;&nbsp; O objetivo do problema Contains Duplicate II é identificar se existem números duplicados em um array e se a diferença absoluta entre os indices é menor que um valor k.
+&nbsp;&nbsp;&nbsp;&nbsp; O objetivo do problema Summary Ranges é identificar onde as sequências estão quebradas.
 
 &nbsp;&nbsp;&nbsp;&nbsp; Para isso desenvolvi o seguinte código: 
 
