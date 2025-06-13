@@ -1,0 +1,1 @@
+Fala tropa, uma soma bem simples e pra dar graça decidi fazer em todas linguagens do leetcode, é nos tropa. O(1)
