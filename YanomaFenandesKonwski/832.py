@@ -6,7 +6,6 @@ class Solution(object):
                 if esquerda == direita:
                     row[esquerda] = 1 - row[esquerda]
                 else:
-                    # Troca e inverte os bits
                     row[esquerda], row[direita] = 1 - row[direita], 1 - row[esquerda]
                 esquerda += 1
                 direita -= 1
