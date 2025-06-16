@@ -10,3 +10,5 @@ class Solution(object):
                 esquerda += 1
                 direita -= 1
         return image
+    
+
