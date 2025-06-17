@@ -3,6 +3,7 @@
 O método `FindRelativeRanks` atribui posições relativas a atletas com base em suas pontuações.
 
 **Funcionamento:**
+
 1. Clona e ordena o array `score` em ordem decrescente.
 2. Mapeia cada pontuação à sua classificação (1º, 2º, 3º, etc.).
 3. Itera pelo array original e converte a classificação em string:
@@ -12,6 +13,7 @@ O método `FindRelativeRanks` atribui posições relativas a atletas com base em
    - Demais → posição numérica ("4", "5", ...)
 
 **Exemplos:**
+
 - Entrada: [5,4,3,2,1] → ["Gold Medal","Silver Medal","Bronze Medal","4","5"]
 - Entrada: [10,3,8,9,4] → ["Gold Medal","5","Bronze Medal","Silver Medal","4"]
 
