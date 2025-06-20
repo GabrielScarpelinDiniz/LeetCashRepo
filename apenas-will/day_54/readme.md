@@ -5,6 +5,6 @@
 Para resolver implementei um depth-first search recursivo que vai buscando o destino a partir da fonte. Caso o vértice seja encontrado, uma variável de solução é alterada para `true` e a execução da recursão é interrompida, com a variável se mantendo como `false` caso contrário.
 
 ## Análise de complexidade
-Para um array com $n$ conexões (arestas), tem-se:
-- **Time complexity**: $O(n)$
+Para um array com $e$ conexões (arestas) e $n$ vértices, tem-se:
+- **Time complexity**: $O(e)$
 - **Space complexity**: $O(n)$
