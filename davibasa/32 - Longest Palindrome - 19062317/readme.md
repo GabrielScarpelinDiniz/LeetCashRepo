@@ -3,11 +3,13 @@
 O método `LongestPalindrome` retorna o comprimento do maior palíndromo que pode ser construído com as letras de uma string.
 
 **Funcionamento:**
+
 1. Conta a frequência de cada caractere.
 2. Soma todos os pares de caracteres (cada par pode ser usado simetricamente no palíndromo).
 3. Se houver pelo menos um caractere com frequência ímpar, adiciona 1 ao resultado (esse caractere pode ficar no centro do palíndromo).
 
 **Exemplos:**
+
 - Entrada: "abccccdd" → Saída: 7 (um palíndromo possível: "dccaccd")
 - Entrada: "a" → Saída: 1
 
