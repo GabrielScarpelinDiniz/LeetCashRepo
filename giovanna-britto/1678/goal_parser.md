@@ -6,4 +6,4 @@ Boa Madrugada Gente, hoje eu resolvi o exercício 1678, no qual dado uma string 
 
 2. Retorno a variável `newCommand`
 
-E pronto, mais um exercício resolvido!!!
+E pronto, mais um exercício resolvido!
