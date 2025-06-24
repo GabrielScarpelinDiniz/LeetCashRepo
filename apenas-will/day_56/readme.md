@@ -1,10 +1,10 @@
-## Exercício: 21. Merge Two Sorted Lists
-**Objetivo**: Dada duas listas ligadas ordenadas, combine as duas, gerando uma única lista ligada ordenada;
+## Exercício: 3423. Maximum Difference Between Adjacent Elements in a Circular Array
+**Objetivo**: Dada um array circular (uma array em que o último elemento está conectado ao primeiro) determine a maior diferença absoluta entre pares de elementos consecutivos;
 
 ## Descrição geral da estratégia
-Para resolver, crio uma marcador para o início da lista de resultado e três ponteiros auxiliares, um para a primeira lista, um para a segunda lista e um para a lista de resultado. Em seguida, comparo os nós em cada dos ponteiros, adicionando o menor deles como seguinte ao ponteiro da lista de resultado. Ao final, retorno o nó seguinte ao nó de referência criado inicialmente.
+Para resolver itero pela lista comparando os pares, salvo o maior e o retorno ao final.
 
 ## Análise de complexidade
-Para um duas listas com, respectivamente, $n$ e $m$ nós, tem-se:
-- **Time complexity**: $O(n + m)$
+Para um duas listas com $n$ elementos, tem-se:
+- **Time complexity**: $O(n)$
 - **Space complexity**: $O(1)$
