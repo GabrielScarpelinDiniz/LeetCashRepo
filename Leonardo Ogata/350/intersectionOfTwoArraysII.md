@@ -14,14 +14,15 @@ def intersection(self, nums1: List[int], nums2: List[int]) -> List[int]:
 
         # Cria array auxiliar para armazenar resposta
         auxArr = []
-        
-        # Itera sobre o array menor
-        for i in range(len(shorter)):
-            # Verifica se o item i está presente no array maior e se ele não está presente no array da resposta   
-            if shorter[i] in longer and shorter[i] not in auxArr:
-                auxArr.append(shorter[i])
 
-        # Retorna o array auxiliar   
+        # Itera sobre o array menor
+        for i in range(len(shorter)): 
+            # Verifica se o item i está presente no array maior e remove ele do array maior
+            if shorter[i] in longer:
+                auxArr.append(shorter[i])
+                longer.pop(longer.index(shorter[i]))
+
+        # Retorna o array auxiliar  
         return auxArr
 ```
 
@@ -31,7 +32,7 @@ def intersection(self, nums1: List[int], nums2: List[int]) -> List[int]:
 - Espaço: O uso de espaço adicional é O(n).
 
 <div style="display: flex; align-items: center; justify-content: center;">
-    <img src="leoogata54.jpg" alt="leoogata" style="width: 300px; height: auto; margin-right: 20px;">
+    <img src="leoogata55.jpg" alt="leoogata" style="width: 300px; height: auto; margin-right: 20px;">
     <div>
         <p>Meu nome é Leonardo Ogata e essa foi minha master class, muito obrigado a todos, vejo vocês amanhã!</p>
     </div>
