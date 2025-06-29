@@ -8,4 +8,4 @@ class Solution:
         return count
 
 
-Prcorre todos os pares possíveis (i, j) com i < j e conta quantos têm a soma menor que o target. Ele evita repetições e garante que a ordem dos índices seja respeitada, exatamente como o enunciado pede. Simples e direto.
+Prcorre todos os pares possíveis (i, j) com i < j e conta quantos têm a soma menor que o target. Ele evita repetições e garante que a ordem dos índices seja respeitada,     exatamente como o enunciado pede. Simples e direto.
