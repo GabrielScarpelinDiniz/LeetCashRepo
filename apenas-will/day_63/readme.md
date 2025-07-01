@@ -7,4 +7,4 @@ Para resolver passo pela matriz buscando um primeiro bloco com solo. Quando enco
 ## Análise de complexidade
 Para uma matriz $n \times m$, tem-se:
 - **Time complexity**: $O(n \times m)$
-- **Space complexity**: $O(i)$
+- **Space complexity**: $O(1)$
