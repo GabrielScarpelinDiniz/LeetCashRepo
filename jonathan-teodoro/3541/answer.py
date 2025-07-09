@@ -14,4 +14,4 @@ class Solution:
         max_vowel = max(count_vowels) if sum(count_vowels) > 0 else 0
         max_consonant = max(count_consonants) if sum(count_consonants) > 0 else 0
 
-        return max_vowel + max_consonant
+        return max_vowel + max_consonant    
