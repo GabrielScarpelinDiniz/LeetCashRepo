@@ -7,11 +7,11 @@ public class Solution
         bool seenDigit = false;
         bool seenExponent = false;
         bool seenDot = false;
-        
+
         for (int i = 0; i < s.Length; i++)
         {
             char c = s[i];
-            
+
             if (char.IsDigit(c))
             {
                 seenDigit = true;
@@ -49,7 +49,7 @@ public class Solution
                 return false;
             }
         }
-        
+
         return seenDigit;
     }
 }
