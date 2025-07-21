@@ -23,4 +23,4 @@ class Solution:
         return None
 
             
-Fiz uma alternativa cool. Utilizo a estrategia dos visitados, percorro a lista um e adiciono os nós na lista visitados, depois percorro a 2, se o nó voltar a aparecer, eu retorno ele e sigo o fluxo. Bem simples a estrategia, gosto muito de exercicios de linked list.
+Fiz uma alternativa cool. Utilizo a estrategia dos visitados, percorro a lista um e adiciono os nós na lista visitados, depois percorro a 2, se o nó voltar a aparecer, eu retorno ele e sigo o fluxo. Bem simples a estrategia, gosto muito de exercicios de linked list.  
