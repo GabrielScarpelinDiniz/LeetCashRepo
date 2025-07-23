@@ -5,7 +5,7 @@ public class Solution
     public int FirstMissingPositive(int[] nums)
     {
         int n = nums.Length;
-        
+
         // Step 1: Replace all numbers <= 0 or > n with n+1
         for (int i = 0; i < n; i++)
         {
@@ -14,7 +14,7 @@ public class Solution
                 nums[i] = n + 1;
             }
         }
-        
+
         // Step 2: Use array indices to mark presence of numbers
         for (int i = 0; i < n; i++)
         {
@@ -24,7 +24,7 @@ public class Solution
                 nums[num - 1] = -Math.Abs(nums[num - 1]);
             }
         }
-        
+
         // Step 3: Find the first positive number (unmarked index)
         for (int i = 0; i < n; i++)
         {
@@ -33,7 +33,7 @@ public class Solution
                 return i + 1;
             }
         }
-        
+
         // If all numbers from 1 to n are present, return n+1
         return n + 1;
     }
