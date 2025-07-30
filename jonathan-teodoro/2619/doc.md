@@ -11,3 +11,6 @@ Array.prototype.last = function() {
  */
 
  AULAS VOLTEM LOGO OLHA OS EXERCICIOS QUE TO FAZENDO - SIM É ISSO MESMO FIZ UM EXERCICIO DE RETORNAR O ULTIMO NUMERO DE UM ARRAY, PRECISO DOCUMENTAR/EXPLICAR ESSA MERDA?
+
+ Jonathan venho aqui encarecidamente pedir que você explique seu código, não entendi muito bem como você chegou nessa lógica
+ - Leonardo, Ogata
