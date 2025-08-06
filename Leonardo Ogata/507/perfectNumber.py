@@ -6,9 +6,7 @@ class Solution:
         summer = 0
 
         for i in range(1, int(num**0.5) + 1):
-            if num % i == 0:
-                summer += i
-                if num//i != num:
-                    summer += num//i 
+            if not num % i:
+                summer += i + num//i
         
-        return summer == num
+        return summer - num == num
