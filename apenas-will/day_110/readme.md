@@ -1,4 +1,4 @@
-## Exercício: 605. Can Place Flowers
+## Exercício: 557. Reverse Words in a String III
 **Objetivo**: Dado um array que representa um vaso de flores e um inteiro $n$, indique se é possível plantar $n$ flores no vaso. Para que uma flor seja plantada, é necessário que não haja flores adjacentes à ela.
 
 ## Descrição geral da estratégia
